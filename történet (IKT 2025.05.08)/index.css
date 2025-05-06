@@ -1,0 +1,16 @@
+body{
+    background-image: url(output\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    div{
+        color: white;
+    }
+    #alma{
+        height: 500px;
+        width: 500px;
+    }
+    #igen{
+        height: 500px;
+        width: 500px;
+    }
